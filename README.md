@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm keketso leu</h1>
+<h1 align="center">Hello World 👋, I'm keketso leu</h1>
 <h3 align="center">A passionate junior frontend developer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
@@ -14,7 +14,12 @@
 - 📫 How to reach me **keketsoleu12@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+Here are some highlights from my GitHub repositories:
 
+1. [ToDo App](https://euphonious-alfajores-e4d804.netlify.app/): To keep track of you daily activities.
+2. [Padcast API Project](https://musical-florentine-2abe08.netlify.app/): To Sync podcast.
+3. [Profile Project](https://keketsoleu.netlify.app/): Just a Short description of me.
+   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/keketsoleu12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keketsoleu" height="30" width="40" /></a>
