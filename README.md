@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/keketsoleu12" target="blank"><img src="https://img.shields.io/twitter/follow/keketsoleu12?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Programming**
+- 🔭 I’m currently working on **Cyber Security x MICTSETA**
 
-- 🌱 I’m currently learning **PHP, Database**
+- 🌱 I’m currently learning **Cybersecurity with capaciti**
 
 - 💬 Ask me about **CSS, HTML, JavaScript, Python**
 
